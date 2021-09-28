@@ -1,5 +1,15 @@
 ### Hi there 👋
 # Welcom to my github page ❤️
+### Abilities
+- Python
+- Python-requests
+- Python-tkinter
+- Python-telethon
+- Python-ptb
+- Python-selenium
+- Sqlite3
+- MongoDB
+
 [My Telegram](http://t.me/mr3rf1)
 
 <!--
