@@ -1,5 +1,5 @@
 # 💫About Me :
-A beginner programmer and security lover.
+A beginner programmer and security lover.\n
 Games that I currently play: LOL💀
 
 ## 🌐Socials
