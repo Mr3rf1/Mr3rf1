@@ -1,6 +1,5 @@
 # 💫About Me :
-A beginner programmer and security lover.\n
-Games that I currently play: LOL💀
+A beginner programmer and security lover.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mr3rf1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC6GIDepFS2jhaQrR2HIF8oA) 
