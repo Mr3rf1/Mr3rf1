@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+Friend👋;+I'm+Erfan!;A+love+to+learn+Dev;" />
 </h1>
 
-# 💫 About Me :
+## 💫 About Me :
 A beginner programmer and security lover.
 
 ## 🌐 Socials
