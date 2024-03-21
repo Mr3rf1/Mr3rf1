@@ -24,7 +24,7 @@ A beginner programmer and security lover.
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> 
  <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
- <a href="https://regexr.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/5418178/175823766-9cdf850f-d5c0-49e4-b018-d515609a4f34.png" alt="regEx" width="40" height="40"/> </a>
+ <a href="https://regexr.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=regex" alt="regEx" width="40" height="40"/> </a>
  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.andrerinas.de/fileadmin/_processed_/3/3/csm_raspberry_14520f3d4b.png" alt="raspberry pi" width="40" height="40"/> </a>
  <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png" alt="gameMaker" width="40" height="40"/> </a>
  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a>
