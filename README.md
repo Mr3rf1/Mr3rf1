@@ -19,6 +19,7 @@ A beginner programmer and security lover.
 <!-- <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora" width="40" height="40"/> </a>-->
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://docs.celeryq.dev/en/stable/django/index.html" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/1075/celery.png" alt="django" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="docker" width="40" height="40"/> </a>
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a>
