@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me :
-A beginner programmer and security lover.
+Python backend Dev & security lover.
 
 ## 🌐 Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://erf4n.ir)
