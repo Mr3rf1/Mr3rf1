@@ -31,7 +31,7 @@ Python backend Dev & security lover.
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.andrerinas.de/fileadmin/_processed_/3/3/csm_raspberry_14520f3d4b.png" alt="raspberry pi" width="40" height="40"/> </a>
 <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png" alt="gameMaker" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://t.me" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/m/70-709215_python-telegram-bot-logo-python-telegram-hd-png.png" alt="dart" width="40" height="40"/> </a> </p>
+<a href="https://t.me" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/16178365?s=200&v=4" alt="dart" width="40" height="40"/> </a> </p>
 
 # 👕 Current OS
 
