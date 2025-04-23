@@ -19,8 +19,11 @@ Python backend Dev & security lover.
 <!-- <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora" width="40" height="40"/> </a>-->
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://django-ninja.dev/" target="_blank" rel="noreferrer"> <img src="https://django-ninja.dev/img/docs-logo.png" alt="django-ninja" width="40" height="40"/> </a>
 <a href="https://docs.celeryq.dev/en/stable/django/index.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAq2i0YoBpm512rJCWDRZulLbATRWtcR3ug&s" alt="django-celery" width="40" height="40"/> </a>
+<a href="https://postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> 
@@ -28,7 +31,7 @@ Python backend Dev & security lover.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="pyqt" width="40" height="40"/> </a>
 <a href="https://regexr.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=regex" alt="regEx" width="40" height="40"/> </a>
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.andrerinas.de/fileadmin/_processed_/3/3/csm_raspberry_14520f3d4b.png" alt="raspberry pi" width="40" height="40"/> </a>
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberry pi" width="40" height="40"/> </a>
 <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png" alt="gameMaker" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://core.telegram.org/bots/api" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/16178365?s=200&v=4" alt="dart" width="40" height="40"/> </a> </p>
