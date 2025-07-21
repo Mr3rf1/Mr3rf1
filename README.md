@@ -47,6 +47,11 @@ Python backend Dev & security lover.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mr3rf1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr3rf1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 </html>
 
 <!-- ### Hi there 👋
