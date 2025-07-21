@@ -50,7 +50,7 @@ Python backend Dev & security lover.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mr3rf1/Mr3rf1/output/snake.svg" alt="Snake animation" />
 
 </html>
 
