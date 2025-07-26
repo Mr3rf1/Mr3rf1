@@ -52,13 +52,14 @@ Python backend Dev & security lover.
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr3rf1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr3rf1&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr3rf1&theme=radical" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr3rf1&theme=radical" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr3rf1&layout=compact&langs_count=8&theme=radical"/>
+
 
 </div>
 
