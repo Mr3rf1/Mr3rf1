@@ -25,6 +25,7 @@ Python backend Dev & security lover.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2b2522fb-e569-4e71-8933-09f16a5a071a" alt="playwright" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/> </a>
