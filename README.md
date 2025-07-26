@@ -30,6 +30,7 @@ Python backend Dev & security lover.
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
+<a href="https://pypi.org/project/PySide6/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/1f25decd-6465-4890-9b69-a6d10e6e6299" alt="pyside6" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="pyqt" width="40" height="40"/> </a>
 <a href="https://regexr.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=regex" alt="regEx" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberry pi" width="40" height="40"/> </a>
