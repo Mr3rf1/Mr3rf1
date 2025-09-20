@@ -102,3 +102,12 @@ Python backend Dev & security lover.
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
 </div>
+
+---
+
+## 🙏 Donation
+
+If you’d like to support my work, please check out [**Donation Methods**](donation.md)  
+
+Thank you so much for your kindness and support! ❤️
+
