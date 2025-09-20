@@ -107,7 +107,7 @@ Python backend Dev & security lover.
 
 ## 🙏 Donation
 
-If you’d like to support my work, please check out [**Donation Methods**](donation.md)  
+If you’d like to support my work, please check out [**Donation Methods**](DONATION.md)  
 
 Thank you so much for your kindness and support! ❤️
 
