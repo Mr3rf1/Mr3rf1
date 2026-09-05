@@ -35,17 +35,14 @@ Thank you so much for considering to support my work. Every little bit helps! He
 | **Tron (TRX)** | `TWSEWpXfLahN4hTFiN9F4QAwdsktchQPBS` |
 | **Dogecoin (DOGE)** | `DQLjJi2aCQ6KQQpzQemSdtSQ8Z9ac8pyme` |
 
-<!--
+
 ---
 
 ## 📱 Other Methods
 
-- Bank transfer / Wire (if you want, provide IBAN / SWIFT etc)  
-- Mobile payments (e.g. for your country, specify)  
-- Any local method you prefer — contact me to get details
+<a href="https://coffeebede.com/mr3rf1"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="150" /></a>
 
----
-
+<!--
 ### 💡 Notes
 
 - You can donate any amount you like—it’s all appreciated.  
