@@ -50,16 +50,12 @@ Python backend Dev & security lover.
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr3rf1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr3rf1&theme=radical" alt="GitHub Streak"/>
-
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr3rf1&layout=compact&langs_count=8&theme=radical"/>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mr3rf1&layout=compact&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Mr3rf1&layout=compact&langs_count=5&theme=dark_github)
 
 </div>
 
@@ -67,7 +63,7 @@ Python backend Dev & security lover.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mr3rf1&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=mr3rf1&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 </div>
 
@@ -75,7 +71,7 @@ Python backend Dev & security lover.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr3rf1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-activity-graph.luckylinux.dev/graph?username=mr3rf1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </div>
 
